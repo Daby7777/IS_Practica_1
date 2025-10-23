@@ -14,6 +14,10 @@
 * **Arquitecto Software:** Jesús Humanes Cuadrado 
 * **Arquitecto Software:** Jorge Higuera Herrero 
 
+---
+
 ## Descripción Del Caso De Estudio 
+
+---
 
 ## Estructura Del Repositorio
