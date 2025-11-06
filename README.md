@@ -10,7 +10,7 @@
 * **Jefe de Proyecto:** David Hernandez Esteban
 * **Analista Software:** Victor Bravo Vivas
 * **Analista Software:** Eneas Ramirez Ocaña
-* **Arquitecto Software:** Francisco Jimenez Gómez
+* **Arquitecto Software:** Francisco Jiménez Gómez
 * **Arquitecto Software:** Jesús Humanes Cuadrado 
 * **Arquitecto Software:** Jorge Higuera Herrero 
 
