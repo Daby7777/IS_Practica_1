@@ -23,7 +23,7 @@
 ## Estructura Del Repositorio
 
 * Archivos de los diagramas en UML en la carpeta ([UMLs](UMLs))
-* La memoria se encuentra en la carpeta([Memoria](Memoria))
+* La memoria se encuentra en la carpeta ([Memoria](Memoria))
 ---
 
 ## Herramientas Utilizadas 
