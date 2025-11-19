@@ -27,3 +27,5 @@ Archivos de los diagramas en UML en la carpeta ([UMLs](UMLs))
 ---
 
 ## Herramientas Utilizadas 
+
+Para el desarrollo de los diagramas UML se ha utilizado la herramienta ([StarUML](https://staruml.io))
