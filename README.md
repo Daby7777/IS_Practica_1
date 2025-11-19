@@ -22,6 +22,8 @@
 
 ## Estructura Del Repositorio
 
+Archivos de los diagramas en UML en la carpeta ([UMLs](UMLs))
+
 ---
 
 ## Herramientas Utilizadas 
