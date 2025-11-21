@@ -7,11 +7,11 @@
 
 ## Integrantes y Roles 
 
-* **Jefe de Proyecto:** David Hernandez Esteban
+* **Jefe de Proyecto:** [David Hernandez Esteban](https://github.com/Daby7777)
 * **Analista Software:** Victor Bravo Vivas
-* **Analista Software:** Eneas Ramirez Ocaña
-* **Arquitecto Software:** Francisco Jiménez Gómez
-* **Arquitecto Software:** Jesús Humanes Cuadrado 
+* **Analista Software:** [Eneas Ramirez Ocaña](https://github.com/EneasRO)
+* **Arquitecto Software:** [Francisco Jiménez Gómez](https://github.com/gomprogramming)
+* **Arquitecto Software:** [Jesús Humanes Cuadrado](https://github.com/Chechu13)
 * **Arquitecto Software:** Jorge Higuera Herrero 
 
 ---
