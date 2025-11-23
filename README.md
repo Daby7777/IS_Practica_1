@@ -12,7 +12,7 @@
 * **Analista Software:** [Eneas Ramirez Ocaña](https://github.com/EneasRO)
 * **Arquitecto Software:** [Francisco Jiménez Gómez](https://github.com/gomprogramming)
 * **Arquitecto Software:** [Jesús Humanes Cuadrado](https://github.com/Chechu13)
-* **Arquitecto Software:** [Jorge Higuera Herrero](https://github.com/reni8912)
+* **Arquitecto Software:** [Jorge Higuera Herrero](https://github.com/JHigURJC)
 
 ---
 
