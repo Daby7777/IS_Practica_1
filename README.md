@@ -25,19 +25,19 @@ un tren está ocupando o no la vía. En función de esos valores es posible que 
 que hay que detectar y predecir. En este sentido, el software que se pretende diseñar es una
 aplicación Web basada en protocolos HTTP/REST y debe contar con las siguientes
 funcionalidades:
- Un elemento que lea los valores de voltajes de las vías desde un fichero CSV con la hora
+* Un elemento que lea los valores de voltajes de las vías desde un fichero CSV con la hora
 en formato (HH:MM:SS:MS) y un valor binario (0/1) que indica el estado. Por cada vía
 de tren pueden existir múltiples dispositivos cada cierto número de metros. Cada
 dispositivo debe llevar un identificador.
- Una funcionalidad que detecte si hay un tren en la vía en función del valore binario (1:
+* Una funcionalidad que detecte si hay un tren en la vía en función del valore binario (1:
 vía libre, 0: hay un tren)
- Un módulo inteligente que detecte y sea capaz de predecir tipos de incidencias en
+* Un módulo inteligente que detecte y sea capaz de predecir tipos de incidencias en
 función de los valores. De los tipos posibles solo vamos a considerar los siguientes: (i)
 ausencia de datos por bloqueo prolongado donde un dispositivo de vía no emite datos
 por un periodo de más de 2 minutos, (ii) saltos de frecuencia de al menos 0.5 voltios.
- Un módulo de suscripción a incidencias por parte de los usuarios del sistema donde se
+* Un módulo de suscripción a incidencias por parte de los usuarios del sistema donde se
 pueden publicar diferentes tipos de incidencias.
- Un módulo de visualización que muestre gráficamente las incidencias en función de los
+* Un módulo de visualización que muestre gráficamente las incidencias en función de los
 valores de los voltajes.
 
 ---
